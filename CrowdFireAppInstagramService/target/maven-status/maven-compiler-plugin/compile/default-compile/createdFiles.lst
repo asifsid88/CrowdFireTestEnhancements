@@ -1,0 +1,17 @@
+com\crowdfireapp\instagramservice\model\BestTime.class
+com\crowdfireapp\instagramservice\poll\PollState.class
+com\crowdfireapp\instagramservice\helpers\ResponseBuilder.class
+com\crowdfireapp\instagramservice\enums\SocialConnectType.class
+com\crowdfireapp\instagramservice\UserActivityHelper.class
+com\crowdfireapp\instagramservice\poll\followeractivity\FollowerActivityPollObject.class
+com\crowdfireapp\instagramservice\apis\social\SocialConnectApi.class
+com\crowdfireapp\instagramservice\factory\apis\SocialConnectApiFactory.class
+com\crowdfireapp\instagramservice\model\ResponseObject.class
+com\crowdfireapp\instagramservice\model\UserActivity.class
+com\crowdfireapp\instagramservice\UserInsight.class
+com\crowdfireapp\instagramservice\poll\PollManager.class
+com\crowdfireapp\instagramservice\apis\social\InstagramApiClient.class
+com\crowdfireapp\instagramservice\poll\PollObject.class
+com\crowdfireapp\instagramservice\CORSResponseFilter.class
+com\crowdfireapp\instagramservice\model\helper\JSONToModelTransformer.class
+com\crowdfireapp\instagramservice\poll\followeractivity\State.class

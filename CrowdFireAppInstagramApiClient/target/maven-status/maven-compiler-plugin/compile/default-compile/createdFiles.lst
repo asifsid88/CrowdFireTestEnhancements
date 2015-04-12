@@ -1,0 +1,8 @@
+com\crowdfireapp\instagram\api\InstagramApiHelper.class
+com\crowdfireapp\instagram\api\constants\ApiQueryParams.class
+com\crowdfireapp\instagram\api\Cache.class
+com\crowdfireapp\instagram\api\constants\RESTApi.class
+com\crowdfireapp\instagram\api\InstagramClient.class
+com\crowdfireapp\instagram\api\InstagramApi.class
+com\crowdfireapp\instagram\api\constants\ApiPlaceholders.class
+com\crowdfireapp\instagram\api\constants\InstagramConstants.class
